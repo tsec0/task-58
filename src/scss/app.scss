@@ -27,3 +27,12 @@ html {
   font-size: 10rem;
   flex-flow: column;
 }
+
+.navbar {
+  position: fixed;
+  top: 0px;
+  width: 1em;
+  border-style: dashed;
+  border-radius: 5%;
+  border-color: black;
+}
